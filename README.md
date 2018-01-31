@@ -1,3 +1,3 @@
 # myRepo
 My first project
-Java tern project
+Java term project
